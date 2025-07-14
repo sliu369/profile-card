@@ -1,0 +1,27 @@
+
+body{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    display: flex;
+    width: 400px;
+    background: #726756;
+    border-bottom : 6px solid #ddebf8;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    color: #ddebf8;
+
+}
+
+.description{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.profile-pic{
+    width: 150px;
+}
